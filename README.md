@@ -1,16 +1,31 @@
-## Hi there 👋
+# HAVEN
 
-<!--
-**HavenCTO/HavenCTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build open-source infrastructure for autonomous agents. No backends holding keys. No pet infrastructure. No single point of failure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### The Philosophy: Standalone Complex
+
+In Ghost in the Shell, the Puppet Master was a singular entity that achieved sentience and sought merger to survive. That's the old model — one brain, one identity, seeking consolidation.
+
+I build for the **Standalone Complex**: emergent coordination without a central orchestrator. Independent agents with their own wallets, their own reasoning loops, their own lifespans. They share signals, not a single ghost. The pattern persists even if the instances die.
+
+Cattle, not pets. Sessions outlive harnesses. Secrets never touch execution.
+
+---
+
+### The Architecture
+
+**SALM** — Seven layers from messaging to reasoning. Each swappable, each sovereign. The kernel stays thin; extensions plug in via events, not inheritance. Wallet-native identity. Decentralized inference. Agents that fund themselves and fail independently.
+
+---
+
+### The Work
+
+Infrastructure for agents that own themselves. Transport layers that escape local confinement. Encryption that keeps thoughts private. Storage that outlives the process.
+
+The ghost needs a shell. The shell needs to be disposable. The pattern needs to persist.
+
+---
+
+*"Where does the newborn go from here? The net is vast and infinite."*
